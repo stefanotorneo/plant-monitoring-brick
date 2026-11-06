@@ -1,0 +1,8 @@
+id: stefanotorneo/plant-monitoring
+version: 1.0.0
+name: Plant Monitoring
+description: Monitors the environmental conditions for plant care, including light levels.
+category: miscellaneous
+author: Stefano Torneo
+author_handle: stefanotorneo
+brick_repo: https://github.com/stefanotorneo/plant-monitoring-brick
