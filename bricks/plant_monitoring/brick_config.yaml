@@ -1,4 +1,4 @@
-id: stefanotorneo:plant-monitoring
+id: stefanotorneo:plant_monitoring
 version: 1.0.0
 name: Plant Monitoring
 description: Monitors the environmental conditions for plant care, including light levels.
